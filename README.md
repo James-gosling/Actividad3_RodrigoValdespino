@@ -1,13 +1,12 @@
 # Actividad 3: Introducción al uso de GitHub
-**Estudiante:** Rodrigo Valdespino Vertiz  
-**Materia:** Programación para Internet  
 
-## Descripción del Proyecto
-Repositorio inicial para el aprendizaje y práctica de control de versiones con Git y la plataforma GitHub.
+- **Nombre completo:** Rodrigo Valdespino Vertiz
+- **Matrícula:** 00520621
+- **Carrera:** Ingeniería en Tecnologías de la Información y Negocios Digitales
+- **Fecha de elaboración:** 27 de agosto de 2026
 
-## Comandos Básicos de Git Utilizados
+## Presentación Personal
+Soy estudiante de ingeniería enfocado en el desarrollo de software, arquitecturas en la nube y ciberseguridad. Me apasiona construir soluciones tecnológicas robustas, optimizar flujos de trabajo e implementar herramientas que impulsen la transformación digital y la innovación en proyectos colaborativos y escalables.
 
-1. `git init` - Inicializa un repositorio local.
-2. `git add README.md` - Añade archivos al área de preparación (staging).
-3. `git commit -m "mensaje"` - Registra una instantánea de los cambios en el historial.
-4. `git push origin main` - Sube los commits locales al repositorio remoto en GitHub.
+## Control de Versiones
+Proyecto desarrollado como evidencia del manejo de repositorios locales y remotos utilizando Git y GitHub.
